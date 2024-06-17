@@ -32,15 +32,3 @@ npm start
 ```
 
 Open your browser and navigate to `http://localhost:3000` to view the application.
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust the sections based on any additional details or specific instructions related to the project.
